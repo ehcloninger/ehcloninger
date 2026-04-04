@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on self-hosting and automating all the things
 - 🌱 I’m currently learning how to write Python like Python (not C++)
-- 👯 I’m looking to collaborate on Home Assistant
+- 👯 I’m looking to collaborate on metadata tools for music
 - 💬 Ask me about compilers
 - 📫 How to reach me: Not on ~~Twitter~~
   - Discord: ehcloninger
