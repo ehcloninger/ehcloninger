@@ -1,5 +1,6 @@
 ## Hi, I'm Eric Cloninger 👋
 
+- 👋 I'm leaving GitHub for my personal projects for Codeberg, due to overreach on CoPilot and default opt-in policies for AI training.
 - 🔭 I’m currently working on self-hosting and automating all the things
 - 🌱 I’m currently learning how to write Python like Python (not C++)
 - 👯 I’m looking to collaborate on metadata tools for music
